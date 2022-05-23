@@ -1,0 +1,9 @@
+{
+  "name": "Wireframe Swap",
+  "id": "1110294236710117692",
+  "api": "1.0.0",
+  "main": "code.ts",
+  "editorType": [
+    "figma"
+  ]
+}
