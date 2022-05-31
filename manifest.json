@@ -5,5 +5,10 @@
   "main": "code.ts",
   "editorType": [
     "figma"
+  ],
+  "menu": [
+    {"name": "Verify a Header", "command": "header"},
+    {"name": "Wireframe to High Fidelity", "command": "rtm"},
+    {"name": "High Fidelity to Wireframe", "command": "wireframe"}
   ]
 }
